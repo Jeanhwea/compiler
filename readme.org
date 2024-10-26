@@ -8,7 +8,7 @@
 [[file:phase.jpg]]
 
 * 视频课程
-视频课程见 [[https://www.bilibili.com/cheese/play/ss10144][PL0E 编译器实现]] | [[https://github.com/Jeanhwea/pcc.git][github]] | [[https://gitee.com/jeanhwea/pcc][gitee]]
+视频课程见 [[https://www.bilibili.com/cheese/play/ss10144][PL0E 编译器实现]] | [[https://github.com/Jeanhwea/pcc][github]] | [[https://gitee.com/jeanhwea/pcc][gitee]]
 
 | 发布日期         | 课程主题                                    | 视频链接 |
 |------------------+---------------------------------------------+----------|
